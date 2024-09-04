@@ -128,7 +128,7 @@
                     </div>
                     <div class="control-group">
                         <div class="form-group floating-label-form-group controls mb-0 pb-2">
-                            <label>Phone Number</label>
+                            <label>Contact Number</label>
                             <input class="form-control" id="phone" type="tel" placeholder="Phone Number" required="required" data-validation-required-message="Please enter your phone number." />
                             <p class="help-block text-danger"></p>
                         </div>
